@@ -3,3 +3,5 @@ def func():
 
 def func2():
     print('new')
+def func3():
+    print('new__')
